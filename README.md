@@ -1,13 +1,13 @@
 # Deep-Learning
 
-## Perceptron, MLP  
+### Perceptron, MLP  
   
-## Numpy를 사용한 BackPropagation  
+### Numpy를 사용한 BackPropagation  
   
-## LeNet, AlexNet, ResNet  
+### LeNet, AlexNet, ResNet  
   
-## RNN classifier, LSTM classifier  
+### RNN classifier, LSTM classifier  
   
-## Attention Seq2Seq, Transformer   
+### Attention Seq2Seq, Transformer   
 
-## 구현 코드입니다
+### 구현 코드입니다
