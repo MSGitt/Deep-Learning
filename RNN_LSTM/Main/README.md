@@ -1,1 +1,1 @@
-### RNN, LSTM으로 Classification Task 수행 코드
+### RNN_classifier, LSTM_classifier 실행 코드
